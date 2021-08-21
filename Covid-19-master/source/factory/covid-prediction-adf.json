@@ -1,9 +1,0 @@
-{
-	"name": "covid-prediction-adf",
-	"location": "centralindia",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "33a6a317-02ba-457c-ab86-15debaa2dd57",
-		"tenantId": "34fbddec-a59d-4b6a-8b86-d7f50ba95886"
-	}
-}
